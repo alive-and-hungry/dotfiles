@@ -84,6 +84,7 @@ git clone the following into $HOME/opt
 
 - Guake
   - set zsh as the default shell.
+  - if on Wayland, add guake to autostart
 - Tmux
 - fzf
 - mc
